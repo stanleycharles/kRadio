@@ -8,7 +8,7 @@ Guestmix
 
 ![This is an image](https://github.com/stanleycharles/kRadio/blob/master/krkdl%20Radio%20Guestmix.png)
 
-Krkdl.Club x [Opentape](https://github.com/opentape/opentape)
+Krkdl x [Opentape](https://github.com/opentape/opentape)
 
 ![This is an image](https://github.com/stanleycharles/kRadio/blob/master/krkdl%20Radio%20Opentape.png)
 
