@@ -6,7 +6,7 @@ Desktop version
 
 Guestlist
 
-![This is an image](https://github.com/stanleycharles/kRadio/blob/master/krkdl%20Radio%20Guestmix.png)
+![This is an image](https://github.com/stanleycharles/kRadio/blob/master/krkdl%20Radio%20Guestlist.png)
 
 Krkdl x [Opentape](https://github.com/opentape/opentape)
 
