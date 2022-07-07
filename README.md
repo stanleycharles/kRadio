@@ -4,7 +4,7 @@ Desktop version
 
 ![This is an image](https://github.com/stanleycharles/kRadio/blob/master/krkdl%20Radio%20Project.png)
 
-Guestmix
+Guestlist
 
 ![This is an image](https://github.com/stanleycharles/kRadio/blob/master/krkdl%20Radio%20Guestmix.png)
 
