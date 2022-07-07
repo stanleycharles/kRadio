@@ -17,7 +17,7 @@ Mobile version
 
 ![This is an image](https://github.com/stanleycharles/kRadio/blob/master/krkdl%20Radio%20Mobile%20Version.png)
 
-Krkdl Club, an Old Project. 2017-2019
+Krkdl Club, an Old Project. 2017-2019 🍁
 
 
 
